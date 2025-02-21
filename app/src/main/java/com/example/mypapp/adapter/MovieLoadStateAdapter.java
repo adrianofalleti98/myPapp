@@ -20,7 +20,7 @@ public class MovieLoadStateAdapter extends LoadStateAdapter<MovieLoadStateAdapte
         this.listener = listener;
     }
 
-    //ok
+    //ok   jjjj
     private View.OnClickListener listener;
 
 
